@@ -1,2 +1,3 @@
 # Project-Recipes
-Basic html project
+Basic html project following the steps on TheOdinProject.
+
