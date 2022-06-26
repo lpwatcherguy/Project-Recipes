@@ -1,0 +1,12 @@
+h1 {
+    color: indigo;
+    font-weight: bolder;
+    font-family: fantasy;
+    font-style: italic;
+    font-size: 2rem;
+    text-align: center;
+
+}
+body {
+    background-color: beige;
+}
